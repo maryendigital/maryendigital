@@ -1,6 +1,6 @@
 ### Hi there, I'm Marco 👋
 
-**AI Automation Specialist** — I build the document and data pipelines that
+**AI Systems & Validation Specialist** — I build the document and data pipelines that
 businesses actually depend on: invoices, bank statements, price catalogs and
 market data.
 
